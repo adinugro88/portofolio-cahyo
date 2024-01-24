@@ -505,4 +505,11 @@ aside:hover ul li:nth-child(3) {
   .portofolio .fullgbr img {
     width: 100%;
   }
+  .portofolio .fullgbr a {
+  text-decoration: none;
+  color: black;
+  font-size: 35px;
+  font-weight: 600;
+}
+
 }
