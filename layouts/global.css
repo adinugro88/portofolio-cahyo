@@ -46,7 +46,9 @@ body {
 
 .portofolio .fullgbr a {
   text-decoration: none;
-  color: blanchedalmond;
+  color: black;
+  font-size: 35px;
+  font-weight: 600;
 }
 
 
@@ -60,8 +62,10 @@ body {
 
 }
 
-h1 {
+h1
+{
   text-shadow: 2px 2px 4px #000000;
+  font-size: 50px;
 }
 
 img.gbrprofile {
